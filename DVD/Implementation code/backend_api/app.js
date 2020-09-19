@@ -12,10 +12,10 @@ const app = express()
 const port = process.env.PORT || 5000
 
 // Get the DataBase URI From the System Environment Variables
-let dburl = "mongodb+srv://ca:cognitive3773@workspace.ohvca.mongodb.net/ca_db?retryWrites=true&w=majority"
+let url = process.env.DBURI;
 
 // Establish a Connection to MongoDB
-mongoose.connect(dburl,
+mongoose.connect(url,
 	{
 		dbName:'ca_db',
 		useNewUrlParser: true, 

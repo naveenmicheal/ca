@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/store", {data:[{}],fetch:[],mutations:[]});

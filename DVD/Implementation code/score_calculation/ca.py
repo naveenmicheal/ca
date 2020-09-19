@@ -30,8 +30,7 @@ for index,rec in df.iterrows():
     newdf.at[index,sindex] = new_value
 print(newdf)
 # Store the new Dataframe in mongodb
-dburl = "mongodb+srv://ca:cognitive3773@workspace.ohvca.mongodb.net/ca_db?retryWrites=true&w=majority"
-client = MongoClient(dburl)
+client = MongoClient("mongodb+srv://ca:cognitive3773@workspace.ohvca.mongodb.net/ca_db?retryWrites=true&w=majority")
 
 
 db = client['ca_db']
