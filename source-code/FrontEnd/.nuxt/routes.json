@@ -1,0 +1,65 @@
+[
+  {
+    "name": "addproduct",
+    "path": "/addproduct",
+    "component": "/home/zero/workspace/cognitive-analytica/FrontEnd/pages/addproduct.vue",
+    "chunkName": "pages/addproduct",
+    "_name": "_fae8a514"
+  },
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "/home/zero/workspace/cognitive-analytica/FrontEnd/pages/dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "_name": "_51cfaf08"
+  },
+  {
+    "name": "invoice",
+    "path": "/invoice",
+    "component": "/home/zero/workspace/cognitive-analytica/FrontEnd/pages/invoice.vue",
+    "chunkName": "pages/invoice",
+    "_name": "_5e00a095"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "/home/zero/workspace/cognitive-analytica/FrontEnd/pages/products.vue",
+    "chunkName": "pages/products",
+    "_name": "_4b3d5aa8"
+  },
+  {
+    "name": "rec",
+    "path": "/rec",
+    "component": "/home/zero/workspace/cognitive-analytica/FrontEnd/pages/rec/index.vue",
+    "chunkName": "pages/rec/index",
+    "_name": "_7dff20fb"
+  },
+  {
+    "name": "store",
+    "path": "/store",
+    "component": "/home/zero/workspace/cognitive-analytica/FrontEnd/pages/store.vue",
+    "chunkName": "pages/store",
+    "_name": "_730d7049"
+  },
+  {
+    "name": "transactions",
+    "path": "/transactions",
+    "component": "/home/zero/workspace/cognitive-analytica/FrontEnd/pages/transactions.vue",
+    "chunkName": "pages/transactions",
+    "_name": "_61dfd21d"
+  },
+  {
+    "name": "rec-products",
+    "path": "/rec/products",
+    "component": "/home/zero/workspace/cognitive-analytica/FrontEnd/pages/rec/products.vue",
+    "chunkName": "pages/rec/products",
+    "_name": "_ed4b446a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/zero/workspace/cognitive-analytica/FrontEnd/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_43db808c"
+  }
+]

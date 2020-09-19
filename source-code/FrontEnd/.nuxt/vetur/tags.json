@@ -1,0 +1,26 @@
+{
+  "Sidebar": {
+    "description": "Auto imported from components/basics/sidebar.vue"
+  },
+  "LazySidebar": {
+    "description": "Auto imported from components/basics/sidebar.vue"
+  },
+  "Topbar": {
+    "description": "Auto imported from components/basics/topbar.vue"
+  },
+  "LazyTopbar": {
+    "description": "Auto imported from components/basics/topbar.vue"
+  },
+  "Dashcards": {
+    "description": "Auto imported from components/objects/dashcards.vue"
+  },
+  "LazyDashcards": {
+    "description": "Auto imported from components/objects/dashcards.vue"
+  },
+  "Productcards": {
+    "description": "Auto imported from components/objects/productcards.vue"
+  },
+  "LazyProductcards": {
+    "description": "Auto imported from components/objects/productcards.vue"
+  }
+}
